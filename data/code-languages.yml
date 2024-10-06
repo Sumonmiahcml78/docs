@@ -3,7 +3,7 @@
 # We prefer full language name in lowercase to avoid conflicts
 bash:
   name: Bash
-  comment: number
+  
 bicep:
   name: Bicep
   comment: slash
